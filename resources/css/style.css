@@ -4,6 +4,10 @@ body {
   text-align: center;
 }
 
+.banner {
+  background-image: url(../images/the-flatiron-building.png);
+
+}
 /* styling header */
 h1 {
   font-size: 70px;
@@ -12,10 +16,4 @@ h1 {
 
 .btn {
   font-size: 18px;
-}
-
-
-h1,.btn{
-  background-image: url(../images/the-flatiron-building.png);
-
 }
