@@ -9,3 +9,13 @@ h1 {
   font-size: 70px;
   font-weight: bold;
 }
+
+.btn {
+  font-size: 18px;
+}
+
+
+h1,.btn{
+  background-image: url(../images/the-flatiron-building.png);
+
+}
