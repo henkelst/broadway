@@ -4,6 +4,7 @@ body {
 
 }
 
+/* styling h1, h2 and h3 */
 h1,
 h2,
 h3 {
@@ -19,6 +20,8 @@ h2 {
 h3 {
   font-size: 23px
 }
+
+/* styling class banner, including h1 and h2! */
 .banner {
   background-image: url(../images/the-flatiron-building.png);
   text-align: center;
@@ -29,8 +32,10 @@ h3 {
 .supporting {
   text-align: center;
 }
-/* styling header */
 
+.supporting-item p {
+  font-size: 14px;
+}
 
 .btn {
   font-size: 18px;
